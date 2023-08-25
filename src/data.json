@@ -1,0 +1,1437 @@
+[
+  {
+    "id": 0,
+    "boxData": {
+      "total_count": 2,
+      "entries": [
+        {
+          "type": "folder",
+          "id": "137689151298",
+          "etag": "1",
+          "name": "Demo",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": true,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2023-06-21T15:36:32-07:00",
+          "tags": ["targets", "projects"],
+          "parent": null,
+          "created_at": "2021-05-19T13:18:04-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 48920047,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              }
+            ],
+            "total_count": 1
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "138046880097",
+          "etag": "1",
+          "name": "Internal",
+          "permissions": {
+            "can_download": true,
+            "can_upload": true,
+            "can_rename": true,
+            "can_delete": true,
+            "can_share": true,
+            "can_invite_collaborator": true,
+            "can_set_share_access": true
+          },
+          "modified_at": "2023-08-22T22:57:02-07:00",
+          "tags": ["targets", "projects"],
+          "parent": null,
+          "created_at": "2021-05-26T01:48:12-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 7194634385,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              }
+            ],
+            "total_count": 1
+          },
+          "has_collaborations": true
+        }
+      ],
+      "offset": 0,
+      "limit": 1000,
+      "order": [
+        {
+          "by": "type",
+          "direction": "ASC"
+        },
+        {
+          "by": "name",
+          "direction": "ASC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 137689151298,
+    "boxData": {
+      "total_count": 2,
+      "entries": [
+        {
+          "type": "folder",
+          "id": "144382579427",
+          "etag": "2",
+          "name": "01 Well Repository",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": true,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T06:00:47-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "137689151298",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Demo"
+          },
+          "created_at": "2021-08-27T05:02:22-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 8445127,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              }
+            ],
+            "total_count": 2
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "137986466850",
+          "etag": "0",
+          "name": "10 DDR",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2023-06-21T15:36:09-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "137689151298",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Demo"
+          },
+          "created_at": "2021-05-25T04:00:08-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 1631157,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              }
+            ],
+            "total_count": 2
+          },
+          "has_collaborations": true
+        }
+      ],
+      "offset": 0,
+      "limit": 1000,
+      "order": [
+        {
+          "by": "type",
+          "direction": "ASC"
+        },
+        {
+          "by": "name",
+          "direction": "ASC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 144382579427,
+    "boxData": {
+      "total_count": 1,
+      "entries": [
+        {
+          "type": "folder",
+          "id": "144383863848",
+          "etag": "0",
+          "name": "F-9",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T06:00:47-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382579427",
+            "sequence_id": "2",
+            "etag": "2",
+            "name": "01 Well Repository"
+          },
+          "created_at": "2021-08-27T05:38:16-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 8445127,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              }
+            ],
+            "total_count": 3
+          },
+          "has_collaborations": true
+        }
+      ],
+      "offset": 0,
+      "limit": 1000,
+      "order": [
+        {
+          "by": "type",
+          "direction": "ASC"
+        },
+        {
+          "by": "name",
+          "direction": "ASC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 144383863848,
+    "boxData": {
+      "total_count": 5,
+      "entries": [
+        {
+          "type": "folder",
+          "id": "144382580627",
+          "etag": "1",
+          "name": "Daily Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T06:00:47-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144383863848",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "F-9"
+          },
+          "created_at": "2021-08-27T05:02:22-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 80935,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              }
+            ],
+            "total_count": 4
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144392715392",
+          "etag": "0",
+          "name": "End of Well Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T05:20:14-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144383863848",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "F-9"
+          },
+          "created_at": "2021-08-27T07:32:43-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              }
+            ],
+            "total_count": 4
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144382581827",
+          "etag": "1",
+          "name": "Evaluation",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T05:21:05-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144383863848",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "F-9"
+          },
+          "created_at": "2021-08-27T05:02:23-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              }
+            ],
+            "total_count": 4
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144391632724",
+          "etag": "1",
+          "name": "Planning",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T01:56:39-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144383863848",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "F-9"
+          },
+          "created_at": "2021-08-27T07:31:20-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 8364192,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              }
+            ],
+            "total_count": 4
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144391793496",
+          "etag": "0",
+          "name": "Structural",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-15T06:45:06-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144383863848",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "F-9"
+          },
+          "created_at": "2021-08-27T07:30:29-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              }
+            ],
+            "total_count": 4
+          },
+          "has_collaborations": true
+        }
+      ],
+      "offset": 0,
+      "limit": 1000,
+      "order": [
+        {
+          "by": "type",
+          "direction": "ASC"
+        },
+        {
+          "by": "name",
+          "direction": "ASC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 144382580627,
+    "boxData": {
+      "total_count": 9,
+      "entries": [
+        {
+          "type": "folder",
+          "id": "144391571331",
+          "etag": "0",
+          "name": "Daily Completion Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T06:00:47-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T07:29:26-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144391512161",
+          "etag": "0",
+          "name": "Daily Cost Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T05:17:02-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T07:28:46-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144382585427",
+          "etag": "0",
+          "name": "Daily Directional Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T05:17:12-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T05:02:23-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144382584227",
+          "etag": "0",
+          "name": "Daily Drilling Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T05:17:30-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T05:02:23-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 80935,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144382583027",
+          "etag": "0",
+          "name": "Daily Geological Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-15T06:49:07-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T05:02:23-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144391141679",
+          "etag": "0",
+          "name": "Daily Mud Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-09-24T05:19:15-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T07:28:22-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144392582738",
+          "etag": "0",
+          "name": "Daily Mudlogging Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-08-27T07:28:57-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T07:28:57-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144391879315",
+          "etag": "0",
+          "name": "Daily Testing Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-08-27T07:29:07-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T07:29:07-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        },
+        {
+          "type": "folder",
+          "id": "144391894488",
+          "etag": "0",
+          "name": "IADC Rig Reports",
+          "permissions": {
+            "can_download": true,
+            "can_upload": false,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_invite_collaborator": false,
+            "can_set_share_access": false
+          },
+          "modified_at": "2021-08-27T07:28:32-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382580627",
+            "sequence_id": "1",
+            "etag": "1",
+            "name": "Daily Reports"
+          },
+          "created_at": "2021-08-27T07:28:32-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 0,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              }
+            ],
+            "total_count": 5
+          },
+          "has_collaborations": true
+        }
+      ],
+      "offset": 0,
+      "limit": 1000,
+      "order": [
+        {
+          "by": "type",
+          "direction": "ASC"
+        },
+        {
+          "by": "name",
+          "direction": "ASC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 144382584227,
+    "boxData": {
+      "total_count": 1,
+      "entries": [
+        {
+          "type": "file",
+          "id": "860384582213",
+          "etag": "0",
+          "name": "F-9_DDR09_07_12_2007.pdf",
+          "permissions": {
+            "can_download": true,
+            "can_preview": true,
+            "can_upload": false,
+            "can_comment": true,
+            "can_rename": false,
+            "can_delete": false,
+            "can_share": true,
+            "can_set_share_access": false,
+            "can_invite_collaborator": false,
+            "can_annotate": true,
+            "can_view_annotations_all": true,
+            "can_view_annotations_self": true,
+            "can_create_annotations": true,
+            "can_view_annotations": true
+          },
+          "modified_at": "2021-09-15T08:12:13-07:00",
+          "tags": [],
+          "parent": {
+            "type": "folder",
+            "id": "144382584227",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "Daily Drilling Reports"
+          },
+          "created_at": "2021-09-15T08:12:13-07:00",
+          "owned_by": {
+            "type": "user",
+            "id": "252575325",
+            "name": "Animus Admin",
+            "login": "support@animus.technology"
+          },
+          "size": 80935,
+          "path_collection": {
+            "entries": [
+              {
+                "type": "folder",
+                "id": "0",
+                "sequence_id": null,
+                "etag": null,
+                "name": "All Files"
+              },
+              {
+                "type": "folder",
+                "id": "137689151298",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Demo"
+              },
+              {
+                "type": "folder",
+                "id": "144382579427",
+                "sequence_id": "2",
+                "etag": "2",
+                "name": "01 Well Repository"
+              },
+              {
+                "type": "folder",
+                "id": "144383863848",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "F-9"
+              },
+              {
+                "type": "folder",
+                "id": "144382580627",
+                "sequence_id": "1",
+                "etag": "1",
+                "name": "Daily Reports"
+              },
+              {
+                "type": "folder",
+                "id": "144382584227",
+                "sequence_id": "0",
+                "etag": "0",
+                "name": "Daily Drilling Reports"
+              }
+            ],
+            "total_count": 6
+          },
+          "has_collaborations": true
+        }
+      ],
+      "offset": 0,
+      "limit": 1000,
+      "order": [
+        {
+          "by": "type",
+          "direction": "ASC"
+        },
+        {
+          "by": "name",
+          "direction": "ASC"
+        }
+      ]
+    }
+  }
+]
